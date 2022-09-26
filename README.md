@@ -1,1 +1,1 @@
-# FacialRecognition
+# Facial Recognition Project using OpenCv python package 
